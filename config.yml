@@ -2,18 +2,13 @@ sections:
   - name: "New Security Technique"
     instructions: | 
       This label represents arxiv articles that discuss a new security technique.
-    label: "new-tecnique"
+    label: "new-technique"
     threshold: 0.6
   - name: "Security Tooling"
     instructions: |
       This label represents arxiv articles that discuss creating a tool that performs security testing.
     label: "new-tool"
-    threshold: 0.6
-  - name: "Non LLMs"
-    instructions: |
-      This label represents the discussion of a model that is not a large language model.
-    label: "nonllm"
-    threshold: 0.6
+    threshold: 0.7
   - name: "LLMs"
     instructions: |
       This label represents the discussion of a large language model.

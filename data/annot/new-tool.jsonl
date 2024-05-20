@@ -1,0 +1,7 @@
+{"text":"To foster future research, we release KernJC with the dataset in the community.","meta":{"url":"https://arxiv.org/abs/2404.11107"},"cats":{"new-technique":0,"new-tool":1}}
+{"text":"We also release a companion visualization tool for easy exploration and derivation of insights from the dataset.","meta":{"url":"https://arxiv.org/abs/2403.12075"},"cats":{"new-technique":0,"new-tool":1}}
+{"text":"To fill these gaps, we publicly release the Weapons of Mass Destruction Proxy (WMDP) benchmark, a dataset of 3,668 multiple-choice questions that serve as a proxy measurement of hazardous knowledge in biosecurity, cybersecurity, and chemical security.","meta":{"url":"https://arxiv.org/abs/2403.03218"},"cats":{"new-technique":0,"new-tool":1}}
+{"text":"We release our benchmark and code publicly at this https URL","meta":{"url":"https://arxiv.org/abs/2403.03218"},"cats":{"new-technique":0,"new-tool":1}}
+{"text":"We release AttackBench as a publicly available benchmark, aiming to continuously update it to include and evaluate novel gradient-based attacks for optimizing adversarial examples.","meta":{"url":"https://arxiv.org/abs/2404.19460"},"cats":{"new-technique":0,"new-tool":1}}
+{"text":"In addition, we created a new PLSC (Polish Library of Science Corpus) dataset consisting of titles and abstracts of scientific publications in Polish, which was used as the basis for two novel clustering tasks.","meta":{"url":"http://arxiv.org/abs/2405.10138v1"},"cats":{"new-technique":0,"new-tool":0}}
+
